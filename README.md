@@ -5,8 +5,7 @@ This implementation is inspired by [Segmented Controls](https://developer.apple.
 
 ![Sample Image](https://raw.githubusercontent.com/hoang8f/android-segmented-control/master/screenshot/screenshot.png)
 
-Added support for vertical RadioGroup by tchar (https://github.com/tchar), based uppon hoang8f’s work only, by just adding some code and some xml drawables
-for vertical RadioGroup
+Added support for vertical RadioGroup by [tchar](https://github.com/tchar) for vertical RadioGroup
 
 ![Sample Image](https://raw.githubusercontent.com/tchar/android-segmented-control/vertical-radiogroups/screenshot/screenshot2.png)
 
@@ -17,7 +16,7 @@ for vertical RadioGroup
 Android-Segmented Library is pushed to [Maven Central](http://search.maven.org/#search|ga|1|android-segmented), so you just need to add the following dependency to your `build.gradle`.
 
     dependencies {
-        compile 'info.hoang8f:android-segmented:1.0.2'
+        compile 'info.hoang8f:android-segmented:1.0.4'
     }
 
 ####Manually
